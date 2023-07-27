@@ -61,5 +61,14 @@ Actualmente utilizo las siguientes tecnologias en mis proyectos:
 </p>
 </h4>
  
+<h2>
+No dudes en contactarme por medio de:
+</h2>
 
+<h4>
+<p>
+Linkendin: https://www.linkedin.com/in/jose-manuel-franco-alzate-30b964260/
+</p>
+Gmail: josemanuelalzatefranco12@gmail.com
+</h4>
 </div>
