@@ -21,12 +21,45 @@ Soy un estudiante de la academia "Hola Soy Henry" en donde me desarrollo como pr
 Actualmente ando relizando distintos proyectos los cuales me ayudan a aumenter mis conocimientos y a crecer como programador. 
 
 <h2>
-¿Adonde me dirijo?🎯
+¿Adonde me dirijo?🚶
 </h2>
-Tecnologias⚙️
+
+Mi objetivo es crecer cada ves mas tanto como persona  y desarrollador web  aprendiendo de cada una de mis experiencias para asi colaborar y ayudar a las empresas en sus distintos proyectos. 
 <h2>
-
+Tecnologias👨‍💻
 </h2>
 
+Actualmente utilizo las siguientes tecnologias en mis proyectos:
+
+<h4>
+<p>
+⚙️JavaScript
+</p>
+<p>
+⚙️React
+</p>
+<p>
+⚙️Redux 
+</p>
+<p>
+⚙️HTML
+</p>
+<p>
+⚙️CSS
+</p>
+<p>
+⚙️Express
+</p>
+<p>
+⚙️Node.js
+</p>
+<p>
+⚙️Sequelize
+</p>
+<p>
+⚙️PostgresSQL
+</p>
+</h4>
+ 
 
 </div>
