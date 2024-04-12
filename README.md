@@ -59,6 +59,9 @@ Actualmente utilizo las siguientes tecnologias en mis proyectos:
 <p>
 ⚙️PostgresSQL
 </p>
+<p>
+⚙️MongoDB
+</p>
 </h4>
  
 <h2>
