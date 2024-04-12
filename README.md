@@ -72,6 +72,6 @@ No dudes en contactarme por medio de:
 <p>
 Linkendin: https://www.linkedin.com/in/jose-manuel-franco-alzate-30b964260/
 </p>
-Gmail: josemanuelalzatefranco12@gmail.com
+Gmail: josefrancoprogramacion@gmail.com
 </h4>
 </div>
