@@ -36,30 +36,39 @@ Me llamo Jose Franco
 </p>
 <h2>Tecnologías 👨‍💻</h2>
 
-<p>Actualmente utilizo las siguientes tecnologías en mis proyectos:</p>
-
+<h3>Frontend:</h3>
 <ul>
+  <li>⚙️ HTML</li>
+  <li>⚙️ CSS</li>
   <li>⚙️ JavaScript</li>
   <li>⚙️ React</li>
   <li>⚙️ Redux</li>
-  <li>⚙️ HTML</li>
-  <li>⚙️ CSS</li>
-  <li>⚙️ Express</li>
+</ul>
+
+<h3>Backend:</h3>
+<ul>
   <li>⚙️ Node.js</li>
-  <li>⚙️ Sequelize</li>
+  <li>⚙️ Express</li>
+</ul>
+
+<h3>Base de datos:</h3>
+<ul>
   <li>⚙️ PostgreSQL</li>
   <li>⚙️ MongoDB</li>
+  <li>⚙️ Sequelize</li>
 </ul>
+
 <h2>
-No dudes en contactarme por medio de:
+Me puedes contactar por medio de:
 </h2>
 
+<h2>Me puedes contactar por medio de:</h2>
+
 <h4>
-<p>
-Linkendin: https://www.linkedin.com/in/josemanuelfrancoalzate/
-</p>
-Gmail: josefrancoprogramacion@gmail.com
+  <p>Linkendin: <a href="https://www.linkedin.com/in/josemanuelfrancoalzate/">https://www.linkedin.com/in/josemanuelfrancoalzate/</a></p>
+  <p>Gmail: josefrancoprogramacion@gmail.com</p>
 </h4>
+
 </div>
 
 
