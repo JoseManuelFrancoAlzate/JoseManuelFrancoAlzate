@@ -16,7 +16,7 @@ Me llamo Jose Franco
 <p>
     Soy un desarrollador web full stack con una pasión por la creación de aplicaciones innovadoras. Actualmente, me encuentro inmerso en el desarrollo de proyectos individuales para perfeccionar mis habilidades y ampliar mi experiencia como programador.
 </p>
-
+<h2>
 ¿Que hago?🤔
 </h2>
 <p>
