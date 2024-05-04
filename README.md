@@ -12,7 +12,7 @@ Me llamo Jose Franco
 <h2 background-color='red'>
 ¿Quien soy?😁
 </h2>
-Soy un desarrollador web full stack el cual se encuentra actualmente elaborando proyectos individuales para asi refinar y aumentar mis conocimientos como programador </div>
+        Soy un desarrollador web full stack que actualmente se encuentra elaborando proyectos individuales para refinar y aumentar mis conocimientos como programador.
 
 <h2>
 ¿Que hago?🤔
