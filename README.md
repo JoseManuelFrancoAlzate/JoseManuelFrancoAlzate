@@ -58,7 +58,7 @@ Me llamo Jose Franco
   <li>Sequelize</li>
 </ul>
 
-<h2>Me puedes contactar por medio de:</h2>
+<h2>Me puedes contactar por medio de:🔍</h2>
 
 <h4>
   <p>Linkendin: <a href="https://www.linkedin.com/in/josemanuelfrancoalzate/">https://www.linkedin.com/in/josemanuelfrancoalzate/</a></p>
