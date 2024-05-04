@@ -32,7 +32,7 @@ Me llamo Jose Franco
     ¿Hacia dónde me dirijo?🚶
 </h2>
 <p>
-    Mi objetivo es seguir creciendo tanto a nivel personal como profesional como desarrollador web. Estoy comprometido a aprender de cada experiencia y desafío que encuentre en el camino, con el fin de contribuir de manera significativa al éxito de los proyectos empresariales en los que participe. Busco constantemente nuevas oportunidades para desarrollar mis habilidades y ampliar mi conocimiento en el campo del desarrollo de aplicaciones web, con el fin de ofrecer soluciones innovadoras y de alta calidad.
+    Mi objetivo es seguir creciendo tanto a nivel personal como profesional como desarrollador web. Estoy comprometido a aprender de cada experiencia y desafío que encuentre en el camino, con el fin de contribuir de manera significativa al éxito de los proyectos en los que participe. Busco constantemente nuevas oportunidades para desarrollar mis habilidades y ampliar mi conocimiento en el campo del desarrollo de aplicaciones web, con el fin de ofrecer soluciones innovadoras y de alta calidad.
 </p>
 <h2>Tecnologías 👨‍💻</h2>
 
