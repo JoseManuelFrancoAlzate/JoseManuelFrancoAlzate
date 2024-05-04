@@ -38,29 +38,25 @@ Me llamo Jose Franco
 
 <h3>Frontend:</h3>
 <ul>
-  <li>⚙️ HTML</li>
-  <li>⚙️ CSS</li>
-  <li>⚙️ JavaScript</li>
-  <li>⚙️ React</li>
-  <li>⚙️ Redux</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Redux</li>
 </ul>
 
 <h3>Backend:</h3>
 <ul>
-  <li>⚙️ Node.js</li>
-  <li>⚙️ Express</li>
+  <li>Node.js</li>
+  <li>Express</li>
 </ul>
 
 <h3>Base de datos:</h3>
 <ul>
-  <li>⚙️ PostgreSQL</li>
-  <li>⚙️ MongoDB</li>
-  <li>⚙️ Sequelize</li>
+  <li>PostgreSQL</li>
+  <li>MongoDB</li>
+  <li>Sequelize</li>
 </ul>
-
-<h2>
-Me puedes contactar por medio de:
-</h2>
 
 <h2>Me puedes contactar por medio de:</h2>
 
