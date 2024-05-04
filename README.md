@@ -70,7 +70,7 @@ No dudes en contactarme por medio de:
 
 <h4>
 <p>
-Linkendin: https://www.linkedin.com/in/jose-manuel-franco-alzate-30b964260/
+Linkendin: [https://www.linkedin.com/in/jose-manuel-franco-alzate-30b964260/](https://www.linkedin.com/in/josemanuelfrancoalzate/)
 </p>
 Gmail: josefrancoprogramacion@gmail.com
 </h4>
