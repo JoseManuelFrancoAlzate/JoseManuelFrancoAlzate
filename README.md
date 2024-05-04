@@ -17,8 +17,15 @@ Soy un desarrollador web full stack el cual se encuentra actualmente elaborando 
 <h2>
 ¿Que hago?🤔
 </h2>
-Hago aplicaciones web
-
+<p>
+    Como desarrollador web full stack, me dedico a crear aplicaciones web completas desde cero. Esto implica trabajar en todas las etapas del desarrollo, desde el diseño inicial hasta la implementación final.
+</p>
+<p>
+    Mi enfoque principal es desarrollar interfaces de usuario (Front-end) intuitivas y atractivas, utilizando tecnologías como HTML, CSS, JavaScript, React y Redux. Además, me encargo de construir sólidas arquitecturas de software en el lado del servidor (Back-end), utilizando Node.js, Express.js, Sequelize y bases de datos como PostgreSQL y MongoDB.
+</p>
+<p>
+    Además de escribir código, también me involucro en la planificación y el diseño de los proyectos, asegurándome de entender los requisitos del cliente y traducirlos en soluciones técnicas efectivas. Me esfuerzo por seguir las mejores prácticas de desarrollo de software y mantenerme al día con las últimas tecnologías y tendencias en el campo.
+</p>
 <h2>
 ¿Adonde me dirijo?🚶
 </h2>
