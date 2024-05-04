@@ -34,45 +34,22 @@ Me llamo Jose Franco
 <p>
     Mi objetivo es seguir creciendo tanto a nivel personal como profesional como desarrollador web. Estoy comprometido a aprender de cada experiencia y desafío que encuentre en el camino, con el fin de contribuir de manera significativa al éxito de los proyectos empresariales en los que participe. Busco constantemente nuevas oportunidades para desarrollar mis habilidades y ampliar mi conocimiento en el campo del desarrollo de aplicaciones web, con el fin de ofrecer soluciones innovadoras y de alta calidad.
 </p>
+<h2>Tecnologías 👨‍💻</h2>
 
-Tecnologias👨‍💻
-</h2>
+<p>Actualmente utilizo las siguientes tecnologías en mis proyectos:</p>
 
-Actualmente utilizo las siguientes tecnologias en mis proyectos:
-
-<h4>
-<p>
-⚙️JavaScript
-</p>
-<p>
-⚙️React
-</p>
-<p>
-⚙️Redux 
-</p>
-<p>
-⚙️HTML
-</p>
-<p>
-⚙️CSS
-</p>
-<p>
-⚙️Express
-</p>
-<p>
-⚙️Node.js
-</p>
-<p>
-⚙️Sequelize
-</p>
-<p>
-⚙️PostgresSQL
-</p>
-<p>
-⚙️MongoDB
-</p>
-</h4>
- 
+<ul>
+  <li>⚙️ JavaScript</li>
+  <li>⚙️ React</li>
+  <li>⚙️ Redux</li>
+  <li>⚙️ HTML</li>
+  <li>⚙️ CSS</li>
+  <li>⚙️ Express</li>
+  <li>⚙️ Node.js</li>
+  <li>⚙️ Sequelize</li>
+  <li>⚙️ PostgreSQL</li>
+  <li>⚙️ MongoDB</li>
+</ul>
 <h2>
 No dudes en contactarme por medio de:
 </h2>
